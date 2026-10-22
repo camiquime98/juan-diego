@@ -1,0 +1,24 @@
+Estos son los archivos que usa la página. Para cambiar un dibujo, guarda el tuyo con el mismo nombre.
+
+fondo-papel.jpg      Fondo de la portada
+fondo-tela.jpg       Fondo de la invitación
+sobre.png            Sobre azul
+sello-oso.png        Sello dorado del oso
+lazo-azul.png        Lazo del nombre
+lazo-amarillo.png    Lazo amarillo (variante)
+oso-carro.png        Oso en el carro, imagen fija
+oso-carro.gif        Oso en el carro, animado
+oso-biberon.png      Oso sentado con biberón
+oso-canasta.png      Oso dormido en la canasta
+oso-avion.gif        Oso en el avión, animado
+nube.png             Nube
+estrellas.png        Estrellas
+destellos.gif        Destellos
+chispas.gif           Chispas pequeñas, animadas
+chispas-grandes.gif   Chispas grandes, animadas
+borde-rasgado.png    Borde de papel rasgado
+mancha-azul.png      Mancha de acuarela azul
+mancha-celeste.png   Mancha de acuarela celeste
+mancha-rosa.png      Mancha de acuarela rosa
+
+El resto de archivos originales, con el nombre que traían del sitio, está en assets/portada y assets/invitacion.
